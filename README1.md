@@ -19,3 +19,15 @@ Given an array `nums` of integers, return how many of them contain **an even num
 - Finally, return the value of `result`.
 
 ---
+
+##output:
+
+for this:
+
+<img width="477" height="30" alt="image" src="https://github.com/user-attachments/assets/adf094c6-9c9c-43df-b96a-8a4a7b7d6e3c" />
+
+output is :
+
+<img width="38" height="24" alt="image" src="https://github.com/user-attachments/assets/0b0c89b7-fa05-4c43-83b0-7ddd5b6ee162" />
+
+
