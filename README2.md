@@ -33,3 +33,10 @@ answer[i] == i (as a string) if none of the above conditions are true.
 3.Return the final result vector.
 
 ---
+
+🕒 Time and Space Complexity:
+Time Complexity: O(n) — we iterate from 1 to n once.
+
+Space Complexity: O(n) — to store the result in a string array/vector.
+
+
