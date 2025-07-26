@@ -40,4 +40,10 @@ Time Complexity: O(n) — we iterate from 1 to n once.
 
 Space Complexity: O(n) — to store the result in a string array/vector.
 
+---
+
+output:
+
+<img width="673" height="388" alt="image" src="https://github.com/user-attachments/assets/53a44af3-1343-4eb7-b131-aeb03c7bdad3" />
+
 
