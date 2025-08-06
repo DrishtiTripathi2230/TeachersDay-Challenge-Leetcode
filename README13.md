@@ -11,23 +11,22 @@ You are given a non-empty word. Your task is to capitalize the first letter of t
 ---
 ## 🧠 Logic Explained:
 
-1.Take the input word as a string.
+1.Read the input word as a string.
 
-2.Check if the string is not empty.
+2.Check if the string is not empty (a safety check).
 
-3.Convert the first character of the string to uppercase using toupper() or equivalent logic.
+3.Convert the first character of the string to uppercase using toupper().
 
-4.Leave the rest of the string unchanged.
+4.Leave the rest of the string exactly as it is.
 
-5.Output the final word.
-
+5.Output the modified string.
 ---
 
 🕒 Time and Space Complexity:
 
-Time Complexity: O(1) — constant time operation, only modifying one character.
+Time Complexity: O(1) — only the first character is modified.
 
-Space Complexity: O(1) — no extra space used other than the input.
+Space Complexity: o(1) — no additional space is used.
 
 ---
 
